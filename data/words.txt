@@ -1,0 +1,6 @@
+ADJ:checking,few,personal,curious,few,great,good,basic 
+NOUN:Computer,aspect,teller,grocery,store,checkout,appointment,calendar,doctor,office,airport,flight,restaurant,meal,ordering,system,online,computer,word,processor,virus,detection,software,spreadsheet,computer,image,processing,system,someone,team,book,idea,application,computer,game,book,programming,language,mind,programmer,syntax,programming,language,programming,applications,lives,machines,auctions,applications,games,programmers,applications,applications,worlds,basics,applications,Java,rules,techniques 
+VERB:automated,involved,kiosks,have,writing,wrote,reading,cover,writing,use,keep,becoming,requires,mastering,name,run,like,write,master,touch,run,register 
+CONJUNCTION:and,and,and,or,or 
+PRONOUN:our,your,your,they,you,you,you,you,yourself,you,we,we,you,what 
+ADVERB:almost,just,usually,probably,perhaps,specifically,however,just,also,more ARTICLE:every,the,the,a,a,a,a,an,a,those,this,a,an,the,this,the,the,a,the,a PREPOSITION:of,at,for,on,of,if,about,in,for,next,in,of,in,that,than,of TO:to,to 
